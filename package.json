@@ -1,0 +1,19 @@
+{
+  "name": "telepharm-seed-fills-template",
+  "version": "1.0.0",
+  "description": "",
+  "scripts": {
+    "seed-fills": "node src/seed.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "chance": "^1.1.4",
+    "dotenv": "^8.2.0",
+    "got": "^10.6.0"
+  },
+  "devDependencies": {
+    "prettier": "1.19.1"
+  }
+}
